@@ -89,4 +89,4 @@ Contributions to this project are welcome. If you have suggestions for improveme
 
 ## Contact
 
-For questions or inquiries about this project, please contact [Kanishk Bajpai](ikbajpai).
+For questions or inquiries about this project, please contact [kbajpai2001@gmail.com]().
