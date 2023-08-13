@@ -1,6 +1,6 @@
 # Analysis of Stationery Sales - Capstone Project
 
-![Shop](images/shop.png)
+![Shop](shop.png)
 
 This repository contains the code and documentation for the "Analysis of Stationery Sales" capstone project, aimed at helping Baba Vishwanath Photocopy And Recharge Centre optimize its stationery sales and overall business strategies.
 
